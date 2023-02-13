@@ -13,16 +13,15 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/awatchanaman/Apprenti-Geometre/tree/main/apprenti-geometre/tools</projectSourceUrl>
     <tags>apprenti-geometre transformation plan</tags>
-    <summary>Apprenti Géomètre est un logiciel interactif conçu comme une aide à l’enseignement des mathématiques.</summary>
-    <description>Il a été réalisé au terme d’une recherche menée par une équipe de chercheurs du CREM, à la demande du Ministère de la Communauté française de Belgique.
+    <summary>Apprenti Geometre is an interactive software designed as an aid to teaching mathematics.</summary>
+    <description>It was produced following research carried out by a team of CREM researchers, at the request of the Ministry of the French Community of Belgium.
 
-Il s’agit d’un logiciel qui permet, entre autres, de dessiner, découper, fusionner et mouvoir des figures soit de manière intuitive, soit avec les outils de transformation du plan.
+It is a software that allows, among other things, to draw, cut, merge and move figures either intuitively or with the tools for transforming the plan.
 
-Ceci le rend disponible pour toutes sortes d’activités géométriques ou autres (grandeurs, fractions, mesures …).
-Il est un champ d’expérimentation complémentaire à d’autres plus traditionnels, tels que les pliages, les découpages, les manipulations de miroirs, le dessin aux instruments…
+This makes it available for all kinds of geometric or other activities (magnitudes, fractions, measurements…).
+It is a field of experimentation that complements other more traditional ones, such as folding, cutting, manipulation of mirrors, instrument drawing, etc.
 
-Pour éditer les préférences, il vous faudra un mot de passe : « CREM »
-    
+To edit the preferences, you will need a password: “CREM”
     </description>
   </metadata>
   <files>
