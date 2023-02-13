@@ -4,14 +4,14 @@
   <metadata>
     <id>apprenti-geometre</id>
     <version>1.0.0.0</version>
-    <packageSourceUrl>https://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/files/install_geometre.zip</packageSourceUrl>-->
-    <owners>awatchanaman</owners>-->
-    <title>apprenti-geometre</title>
+    <title>Apprenti-geometre</title>
+    <packageSourceUrl>https://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/files/install_geometre.zip</packageSourceUrl>
+    <owners>awatchanaman</owners>
     <authors>chercheurs du CREM</authors>
-    <projectUrlhttps://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/?p=875</projectUrl>
-    <iconUrl>https://github.com/awatchanaman/Apprenti-Geometre/blob/main/apprenti-geometre/tools/logo-apprenti_geometre.PNG</iconUrl>-->
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>-->
-    <projectSourceUrl>https://github.com/awatchanaman/Apprenti-Geometre/tree/main/apprenti-geometre/tools</projectSourceUrl>-->
+    <projectUrl>https://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/?p=875</projectUrl>
+    <iconUrl>https://github.com/awatchanaman/Apprenti-Geometre/blob/main/apprenti-geometre/tools/logo-apprenti_geometre.PNG</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectSourceUrl>https://github.com/awatchanaman/Apprenti-Geometre/tree/main/apprenti-geometre/tools</projectSourceUrl>
     <tags>apprenti-geometre transformation plan</tags>
     <summary>Apprenti Géomètre est un logiciel interactif conçu comme une aide à l’enseignement des mathématiques.</summary>
     <description>Il a été réalisé au terme d’une recherche menée par une équipe de chercheurs du CREM, à la demande du Ministère de la Communauté française de Belgique.
@@ -24,27 +24,6 @@ Il est un champ d’expérimentation complémentaire à d’autres plus traditionnels, 
 Pour éditer les préférences, il vous faudra un mot de passe : « CREM »
     
     </description>
-    <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
-    <!-- =============================== -->
-
-    <!-- Specifying dependencies and version ranges? https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files -->
-    <!--<dependencies>
-      <dependency id="" version="__MINIMUM_VERSION__" />
-      <dependency id="" version="[__EXACT_VERSION__]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_INCLUSIVE]" />
-      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_EXCLUSIVE)" />
-      <dependency id="" />
-      <dependency id="chocolatey-core.extension" version="1.1.0" />
-    </dependencies>-->
-    <!-- chocolatey-core.extension - https://community.chocolatey.org/packages/chocolatey-core.extension
-         - You want to use Get-UninstallRegistryKey on less than 0.9.10 (in chocolateyUninstall.ps1)
-         - You want to use Get-PackageParameters and on less than 0.11.0
-         - You want to take advantage of other functions in the core community maintainer's team extension package
-    -->
-
-    <!--<provides>NOT YET IMPLEMENTED</provides>-->
-    <!--<conflicts>NOT YET IMPLEMENTED</conflicts>-->
-    <!--<replaces>NOT YET IMPLEMENTED</replaces>-->
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
