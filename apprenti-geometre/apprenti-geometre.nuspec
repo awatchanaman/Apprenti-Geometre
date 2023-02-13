@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<!-- Do not remove this test for UTF-8: if â€œÎ©â€ doesnâ€™t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>apprenti-geometre</id>
@@ -9,7 +9,7 @@
     <owners>awatchanaman</owners>
     <authors>chercheurs du CREM</authors>
     <projectUrl>https://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/?p=875</projectUrl>
-    <iconUrl>https://github.com/awatchanaman/Apprenti-Geometre/blob/main/apprenti-geometre/tools/logo-apprenti_geometre.PNG</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/awatchanaman/Apprenti-Geometre/main/apprenti-geometre/tools/logo-apprenti_geometre.PNG</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/awatchanaman/Apprenti-Geometre/tree/main/apprenti-geometre/tools</projectSourceUrl>
     <tags>apprenti-geometre transformation plan</tags>
@@ -18,10 +18,10 @@
 
 It is a software that allows, among other things, to draw, cut, merge and move figures either intuitively or with the tools for transforming the plan.
 
-This makes it available for all kinds of geometric or other activities (magnitudes, fractions, measurements�).
+This makes it available for all kinds of geometric or other activities (magnitudes, fractions, measurements…).
 It is a field of experimentation that complements other more traditional ones, such as folding, cutting, manipulation of mirrors, instrument drawing, etc.
 
-To edit the preferences, you will need a password: �CREM�
+To edit the preferences, you will need a password: “CREM”
     </description>
   </metadata>
   <files>
