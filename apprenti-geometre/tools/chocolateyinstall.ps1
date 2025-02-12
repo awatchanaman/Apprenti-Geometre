@@ -1,7 +1,8 @@
-﻿$ErrorActionPreference = 'Stop'
+$ErrorActionPreference = 'Stop'
 
 $toolsDir  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$Url64      = "https://firebasestorage.googleapis.com/v0/b/project-359443804751131057.appspot.com/o/logiciels%2FAG%2FAG%202.6.9%20(x%2064).exe?alt=media&token=780f02bd-8c16-4697-84d2-e18ac4fd418b"
+$Url64      = "https://github.com/awatchanaman/Apprenti-Geometre/raw/refs/heads/main/apprenti-geometre/tools/AG%202.6.9%20(x%2064).exe"
+
 $uninstall = "C:\Program Files (x86)\Apprenti Géomètre 2\unins000.exe"
 
 
