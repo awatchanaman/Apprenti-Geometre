@@ -30,3 +30,8 @@ if (Test-path -Path "C:\Users\Public\Desktop\Mathematiques") {
   $filepath = Join-Path "C:\Program Files (x86)\Apprenti Géomètre 2" 'AG2.exe'
   Install-ChocolateyShortcut -ShortcutFilePath "C:\Users\Public\Desktop\Mathematiques\Apprenti Géomètre 2.lnk" -TargetPath "$filepath"
 }
+
+# Suppression du Temp du paquet
+if (Test-path -Path "$env:TEMP\apprenti-geometre") {
+  Remove-Item "$env:TEMP\apprenti-geometre" -Recurse -Force 
+}
