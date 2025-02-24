@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>apprenti-geometre</id>
-    <version>2.6.9</version>
+    <version>2.6.9.20250224</version>
     <title>Apprenti-geometre</title>
     <packageSourceUrl>https://edu1d.ac-toulouse.fr/politique-educative-31/site-ressources31/files/install_geometre.zip</packageSourceUrl>
     <owners>awatchanaman</owners>
