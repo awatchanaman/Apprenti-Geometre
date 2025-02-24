@@ -1,4 +1,4 @@
-$ErrorActionPreference = 'Stop'
+﻿$ErrorActionPreference = 'Stop'
 
 $toolsDir  = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $Url64      = "https://github.com/awatchanaman/Apprenti-Geometre/raw/refs/heads/main/apprenti-geometre/tools/AG%202.6.9%20(x%2064).exe"
